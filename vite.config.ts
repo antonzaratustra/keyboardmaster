@@ -7,4 +7,5 @@ export default defineConfig({
     port: 5173,
     host: true,
   },
+  base: '/keyboardmaster/', // Замените на имя вашего репозитория на GitHub
 });
